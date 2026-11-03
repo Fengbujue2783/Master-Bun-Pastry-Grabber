@@ -37,3 +37,18 @@ Too Good To Go 上的鲍师傅盲盒，每次开售几秒内就没了，并且�
 ## 许可
 
 待定。
+
+---
+
+## A note for Too Good To Go
+
+If you are reading this as a member of the Too Good To Go team: this project was born out of a very specific frustration. On Chinese social media, bags from one particular store — Master Bun Bakery in London — are resold at considerable scale: every limited batch disappears within seconds, and much of it shows up for resale shortly after. This tool was written after losing yet another one of those timed battles to resellers.
+
+To keep its footprint deliberate and minimal:
+
+- It is **restricted to that single store** — it cannot be pointed at any other store;
+- It is meant to help **one person buy one bag to eat themselves**, not to enable reselling (see the disclaimer above);
+- It is **non-commercial** — nothing here is for sale;
+- The author does not hide that this is an **unofficial client, which conflicts with your Terms of Service** — that risk is stated plainly to every user of this tool.
+
+Weighing all of the above: if Too Good To Go still considers this repository inappropriate, please feel free to contact the repository owner through GitHub, and the repository will be taken down upon your request.
