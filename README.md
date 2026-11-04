@@ -13,7 +13,7 @@ Too Good To Go 上的鲍师傅盲盒，每次开售几秒内就没了，并且�
 
 ## 下载与使用
 
-**v0.1.0 预发布版已上线**：在 [Releases](../../releases) 页下载 `MasterBunBakeryGrabber-v0.1.0-x64.exe`（约 18 MB，Windows x64，单文件免安装），双击运行。
+**v0.1.0 预发布版已上线**：在 [Releases](../../releases) 页下载 `MasterBunPastryGrabber-v0.1.0-x64.exe`（约 18 MB，Windows x64，单文件免安装），双击运行。
 
 - 启动即菜单：首次运行引导 邮箱+验证码 登录（官方登录方式）；
 - **建议先在菜单 1 完整录入一次支付信息（卡号/有效期/CVV，本地加密保存）**——此后支付全程自动化；菜单 2 开始抢购：到开售时刻自动出手；
